@@ -1,5 +1,7 @@
-## André Cruz IT Portfolio  👋
+## André Cruz IT Portfolio
 
+🔐 SFTP server via powershell
+https://github.com/covtandre/SFTP/tree/main
 <!--
 **covtandre/covtandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

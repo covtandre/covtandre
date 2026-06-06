@@ -1,5 +1,7 @@
 ## André Cruz Portfolio
 
+📖 BLog https://Serverlounge.org
+
 🔐 SFTP server via powershell
 https://github.com/covtandre/SFTP/tree/main
 
